@@ -1,0 +1,62 @@
+WebGL and 3D CSS
+JavaScript:
+1. CodeSchool (paid) and Codecademy (free)
+2.stronger JavaScript foundation by reading the Eloquent Javascript:
+    A Modern Introduction to Programming book by Haverbeke (free).
+3.Expert level:
+	a.Book
+		https://github.com/getify/You-Dont-Know-JS
+	b.Talks:
+		https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+	c.ECMASCript 2015 (also known as ES6):
+		https://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
+		compiler:
+			https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=
+HTML & CSS
+1.Codeschool:
+	https://www.codeschool.com/learn/html-css
+2.Codecademy:
+	https://www.codecademy.com/learn/web
+3.Udacity’s course
+	https://www.udacity.com/course/intro-to-html-and-css--ud304
+4.Jon Duckett’s HTML and CSS: Design and Build Websites book
+
+CSS(different methodologies)
+a.https://smacss.com/
+b.http://getbem.com/
+c.Performance
+	https://www.smashingmagazine.com/2016/03/managing-mobile-performance-optimization/
+d.HTML 5 High Performance Animation
+	https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+Less / Sass
+1.
+Responsive Design
+1.Udacity’s course by Google on Responsive Web Design Fundamentals :
+	https://www.udacity.com/course/responsive-web-design-fundamentals--ud893
+2.Using Bootstrap:
+	http://getbootstrap.com/css/
+3.Basic principles:
+	http://blog.froont.com/9-basic-principles-of-responsive-web-design/
+Angular JS
+1.Principles:
+	https://www.youtube.com/watch?v=HCR7i5F5L8c
+2.Fundamentals(egghead.io)
+	https://egghead.io/courses/angularjs-app-from-scratch-getting-started
+3.Book:
+	http://teropa.info/build-your-own-angular/
+Design Patterns
+1.http://www.dofactory.com/javascript/design-patterns
+2.https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+Chrome DevTools
+1.http://discover-devtools.codeschool.com/
+NodeJS
+1.https://nodeschool.io/
+
+
+
+***************After Completion***********
+https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503
+TCP/IP
+The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. 
+It originated in the initial network implementation in which it complemented the Internet Protocol (IP). 
+Therefore, the entire suite is commonly referred to as TCP/IP.
